@@ -24,3 +24,6 @@ go.work
 
 *.log
 *.db
+
+# Env files
+.env
