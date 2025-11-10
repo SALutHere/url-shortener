@@ -27,3 +27,6 @@ go.work
 
 # Env files
 .env
+
+# Storage
+storage/
